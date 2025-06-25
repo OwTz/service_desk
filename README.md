@@ -30,7 +30,7 @@ Bem-vindo ao projeto **ServiceDesk - API de Pagamento**! Este repositório cont�
 
 1. **Clone o repositório:**
    ```bash
-   git clone https://github.com/OwTZ/serviceDesk.git
+   git clone https://github.com/OwTz/service_desk.git
    ```
 2. **Acesse o diretório do projeto:**
    ```bash
@@ -52,7 +52,7 @@ A API estará disponível em: `http://localhost:2222`
 ## 👨‍💻 Criador
 
 - **Sérgio**  
-  [LinkedIn](https://www.linkedin.com/sergiomqs)  
+  [LinkedIn](https://www.linkedin.com/in/sergiomqs/)  
   Desenvolvedor Back-end responsável por toda a arquitetura e implementação do projeto.
 
 ---
